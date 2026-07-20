@@ -1,89 +1,65 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+title: "Resume"
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Benson J. Bateman
+**Email:** Bensonbateman03@gmail.com | **Phone:** 208-970-8864
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Bachelor of Science in Accounting
+**Brigham Young University–Idaho** | Rexburg, ID  
+*Anticipated Graduation: July 2026*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+* **GPA:** 3.97
+* **Primary Focus:** Pursuing Tax Law
+* **Honors:** Recipient of Full-Tuition Academic Scholarship
 
-- Sizar
+---
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
 
-- Fellow
+### Bookkeeper
+**Mk 6 & Diamond Peak Builders** | Ammon, ID  
+*April 2025 – Present*
 
+* Set up and maintained chart of accounts, vendors, and customers in QuickBooks Online.
+* Managed daily financial records, including invoicing, reconciliations, and expense tracking.
 
+### Framer
+**Wells Builders & Axxis Builders** | Idaho Falls, ID  
+*September 2024 – Present*
 
-## Awards
+* Collaborated with 12+ individuals to efficiently construct residential and commercial buildings adhering to local building code.
+* Supported multiple projects simultaneously, demonstrating strong time management and adaptability while balancing school responsibilities.
 
-`2012`
-President, *Royal Society*, London, UK
+### Sales Representative
+**Grit** | Providence, RI  
+*June 2022 – August 2022*
 
-Associate, *French Academy of Science*, Paris, France
+* Conducted face-to-face sales presentations to potential customers, promoting a variety of products and services.
+* Consistently met or exceeded sales quotas in a performance-driven environment.
 
+### Founder & Owner
+**Lawns for Less** | Ammon, ID  
+*April 2017 – February 2022*
 
+* Founded and operated a lawn care business that grew to over 40 returning customers.
+* Scheduled and completed weekly services, managing routes and time effectively.
 
-## Publications
+### Full-Time Volunteer Representative
+**The Church of Jesus Christ of Latter-day Saints** | Cebu, Philippines  
+*September 2022 – August 2024*
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+* Led teams of up to 24 other full-time volunteers.
+* Taught and motivated team members to achieve personal and team growth goals.
 
-### Journals
+---
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Leadership & Interests
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+* **Team Leadership:** Served as captain of high school soccer team; led team to state tournament through collaboration and motivation.
+* **Languages:** Fluent in Cebuano.
+* **Interests:** Tax Law, Business Planning, Improving Communication, Soccer, Skiing, and Music.
