@@ -3,8 +3,19 @@ title: "about me"
 subtitle: "my data science portfolio"
 # use quarto markdown to 
 ---
+---
+title: "About Me"
+subtitle: "Data Science Portfolio"
+---
 
-# Title 1 Header
-## Title 2 Header
+# Hello & Welcome!
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+My name is **Benson Bateman**, an Accounting student at Brigham Young University–Idaho focusing on Tax Law. I built this portfolio to showcase how I connect financial analytics and business management with modern data science tools.
+
+## Background & Education
+
+I maintain a 3.97 GPA on a full-tuition scholarship with an anticipated graduation in July 2026. Alongside my coursework, I work as a bookkeeper managing financial records in QuickBooks Online and have experience running small business operations.
+
+## Portfolio Overview
+
+This site houses my data science work, including data cleansing, exploratory analysis, visualization, and machine learning projects. Feel free to check out my resume or explore my projects using the menu above!

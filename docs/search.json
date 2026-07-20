@@ -255,19 +255,29 @@
   {
     "objectID": "exploration.html",
     "href": "exploration.html",
-    "title": "about me",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "My name is Benson Bateman, an Accounting student at Brigham Young University–Idaho focusing on Tax Law. I built this portfolio to showcase how I connect financial analytics and business management with modern data science tools.\n\n\nI maintain a 3.97 GPA on a full-tuition scholarship with an anticipated graduation in July 2026. Alongside my coursework, I work as a bookkeeper managing financial records in QuickBooks Online and have experience running small business operations.\n\n\n\nThis site houses my data science work, including data cleansing, exploratory analysis, visualization, and machine learning projects. Feel free to check out my resume or explore my projects using the menu above!",
     "crumbs": [
       "Data Exploration"
     ]
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
+    "objectID": "exploration.html#background-education",
+    "href": "exploration.html#background-education",
+    "title": "About Me",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "I maintain a 3.97 GPA on a full-tuition scholarship with an anticipated graduation in July 2026. Alongside my coursework, I work as a bookkeeper managing financial records in QuickBooks Online and have experience running small business operations.",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#portfolio-overview",
+    "href": "exploration.html#portfolio-overview",
+    "title": "About Me",
+    "section": "",
+    "text": "This site houses my data science work, including data cleansing, exploratory analysis, visualization, and machine learning projects. Feel free to check out my resume or explore my projects using the menu above!",
     "crumbs": [
       "Data Exploration"
     ]

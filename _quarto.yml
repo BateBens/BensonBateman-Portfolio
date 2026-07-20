@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Benson Bateman - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://batebens.github.io/BensonBateman-Portfolio/
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Benson Bateman 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: www.linkedin.com/in/benson-bateman-70698434b
 
   navbar:
     background: primary
